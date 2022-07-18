@@ -11,6 +11,8 @@
     <color name="primary_color">#1F3473</color>
     <color name="secondary_color">#05C7F2</color>
     <color name="Other_color">#F2F2F2</color>
+    <color name="grey_dark">#808080</color>
+    <color name="grey_light">#E3E3E3</color>
 
 
 </resources>

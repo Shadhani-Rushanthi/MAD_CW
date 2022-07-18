@@ -5,9 +5,11 @@
       <map>
         <entry key="..\:/shadhani/codings/MAD_CW/app/src/main/res/layout-w1240dp/activity_login_screen.xml" value="0.12583668005354753" />
         <entry key="..\:/shadhani/codings/MAD_CW/app/src/main/res/layout-w936dp/activity_login_screen.xml" value="0.11202185792349727" />
+        <entry key="..\:/shadhani/codings/MAD_CW/app/src/main/res/layout/activity_create_profile_screen.xml" value="0.22" />
         <entry key="..\:/shadhani/codings/MAD_CW/app/src/main/res/layout/activity_login_screen.xml" value="0.14855072463768115" />
         <entry key="..\:/shadhani/codings/MAD_CW/app/src/main/res/layout/activity_login_screen2.xml" value="0.14855072463768115" />
-        <entry key="..\:/shadhani/codings/MAD_CW/app/src/main/res/layout/activity_main.xml" value="0.14855072463768115" />
+        <entry key="..\:/shadhani/codings/MAD_CW/app/src/main/res/layout/activity_main.xml" value="0.13333333333333333" />
+        <entry key="..\:/shadhani/codings/MAD_CW/app/src/main/res/layout/activity_welcome_screen.xml" value="0.14855072463768115" />
       </map>
     </option>
   </component>

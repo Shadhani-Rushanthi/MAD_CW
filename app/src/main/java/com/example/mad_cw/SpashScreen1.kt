@@ -14,7 +14,7 @@ class SpashScreen1 : AppCompatActivity() {
 
         handler = Handler()
         handler.postDelayed({
-            val intent = Intent( this, LoginScreen::class.java)
+            val intent = Intent( this, CreateProfileScreen::class.java)
             startActivity(intent)
             finish()
         }, 10000)
